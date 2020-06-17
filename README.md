@@ -1,5 +1,6 @@
 # SnakeGame
 This is simple 2D snake game.
+This Code is quickest and easiest way to generate this game.
 No Tkinter Module is used.
 No Pygame Module used.
 
